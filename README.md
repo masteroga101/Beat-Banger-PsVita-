@@ -28,5 +28,7 @@ Beat Banger Discord: https://discord.gg/beatbanger
 Beat Banger mods website:
 https://mods.beatbanger.com/
 
+KirbyKidJ Github: https://github.com/KirbyKid256
+
 
 
