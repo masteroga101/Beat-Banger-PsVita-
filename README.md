@@ -5,7 +5,7 @@ Mods can be acquired via the official beat banger discord server or from the bra
 
 
 ### Current Bugs
-Videos mods dont work however all animation mods (should) work
+Videos in mods dont work however all animation mods (should) work
 
 ### Installation Instructions
 
