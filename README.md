@@ -8,7 +8,7 @@ Mods can be acquired via the official beat banger discord server or from the bra
 Videos in mods dont work however all animation mods (should) work
 
 ### Installation Instructions
-
+N/A
 ### Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
 
