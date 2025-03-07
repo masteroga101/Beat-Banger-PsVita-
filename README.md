@@ -25,7 +25,7 @@ Links:
 
 Beat Banger Discord: https://discord.gg/beatbanger
 
-Best Banger mods website:
+Beat Banger mods website:
 https://mods.beatbanger.com/
 
 
