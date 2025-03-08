@@ -29,8 +29,8 @@ https://mods.beatbanger.com/
 
 KirbyKidJ Github: https://github.com/KirbyKid256
 
-Mod compatibility sheet (WIP) 
-https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk
+(WIP) [Mod compatibility sheet]  
+(https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk) 
 
 
 
