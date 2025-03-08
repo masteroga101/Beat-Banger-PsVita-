@@ -22,12 +22,11 @@ The Beat Banger modding community
 
 ### Links
 
-Beat Banger Discord: https://discord.gg/beatbanger
+[Beat Banger Discord](https://discord.gg/beatbanger)
 
-Beat Banger mods website:
-https://mods.beatbanger.com/
+[Beat Banger mods website](https://mods.beatbanger.com/)
 
-KirbyKidJ Github: https://github.com/KirbyKid256
+[KirbyKidJ Github](https://github.com/KirbyKid256)
 
 (WIP) [Mod compatibility sheet](https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk)
 
