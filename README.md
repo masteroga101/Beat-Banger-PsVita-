@@ -12,6 +12,8 @@ N/A
 ### Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
 
+There are two builds, SFW and NSFW. SFW removes certain part of the game so it is only a modloader so it allowed on vitadb. NSFW invcudes the 3 levels of the story mode 
+
 
 ### Credits
 Bunfan Games: Creators of beatbanger
