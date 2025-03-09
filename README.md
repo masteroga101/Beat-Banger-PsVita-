@@ -28,7 +28,7 @@ The Beat Banger modding community
 
 [Beat Banger mods website](https://mods.beatbanger.com/)
 
-[KirbyKidJ Github](https://github.com/KirbyKid256)
+[KirbyKidJ's Github](https://github.com/KirbyKid256)
 
 (WIP) [Mod compatibility sheet](https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk)
 
