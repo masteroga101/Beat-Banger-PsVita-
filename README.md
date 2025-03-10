@@ -22,11 +22,19 @@ Videos in mods dont work however all animation mods (should) work
 
 ### Linux:
 
-1. Have BeatBanger on steam 😱
+1. Have BeatBanger on steam 🙂
 
 2. Honestly no fucking clue how you get the steam console up on Linux 😭
 
+3. Go into the steam console and type in the command "download_depot 1813430 1813433 5654115729112847272"
+
 ### MacOs 
+
+1. Have BeatBanger on steam 😐
+
+2. Couldnt even hazard a guess 🫠 . Get access to the steam console via any means necessary 
+
+3. Go into the steam console and type in the command "download_depot 1813430 1813434 8127516922034049397"
 
 ## Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
