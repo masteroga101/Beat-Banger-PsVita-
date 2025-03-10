@@ -13,8 +13,11 @@ Videos in mods dont work however all animation mods (should) work
 2. bring up the steam console which ever way you do on your operating system.
 
 On Windows:
-  pressWin + R to bring up a command box
-  Enter the command                       steam://open/console and enter 
+pressWin + R to bring up a command box
+
+Enter the command steam://open/console and enter 
+
+3. 
   
 ### Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
