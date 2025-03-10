@@ -11,7 +11,7 @@ Videos in mods dont work however all animation mods (should) work
 
 ### Windows:
 
-1. Have BeatBanger on steam 😱
+1. Have BeatBanger on steam 😁
 
 2. pressWin + R to bring up a command box
 
