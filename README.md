@@ -18,7 +18,15 @@ Videos in mods dont work however all animation mods (should) work
 
  Enter the command steam://open/console  and enter 
 
-3. 
+3. Go into the steam console and type in the command
+
+### windows
+
+"download_depot 1813430 1813432 1018289862284499489"
+
+### Linux
+
+"download_depot 1813430 
   
 ## Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
