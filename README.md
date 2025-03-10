@@ -19,7 +19,12 @@ Videos in mods dont work however all animation mods (should) work
 
 4. Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
 
+
 ### Linux:
+
+1. Have BeatBanger on steam 😱
+
+2. Honestly no fucking clue how you get the steam console up on Linux 😭
 
 ### MacOs 
 
