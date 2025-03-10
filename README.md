@@ -4,42 +4,32 @@ A port of the greatest game, beat banger for the ps vita with legacy mod support
 Mods can be acquired via the official beat banger discord server or from the brat banger mods website however this site is no longer up to date as a transition is in progress
 
 
-# Current Bugs
+## Current Bugs
 Videos in mods dont work however all animation mods (should) work
 
-# Installation Instructions
+## Installation Instructions
+
+### Windows:
+
 1. Have BeatBanger on steam 😱
 
-2. bring up the steam console which ever way you do on your operating system.
+2. pressWin + R to bring up a command box
 
-## Windows:
+3. Enter the command steam://open/console  and enter
 
- pressWin + R to bring up a command box
+4. Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
 
- Enter the command steam://open/console  and enter 
+### Linux:
 
-## Linux:
+### MacOs 
 
-## MacOs:
-
-
-3. Go into the steam console and type in the command
-
-## windows
-
-"download_depot 1813430 1813432 1018289862284499489"
-
-## Linux
-
-"download_depot 1813430 
-  
-# Notes
+## Notes
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
 
 There are two builds, SFW and NSFW. SFW removes certain part of the game so it is only a modloader and is therefore allowed on vitadb. NSFW includes the 3 levels of the story mode and the shop all which include 18+ elements 
 
 
-# Credits
+## Credits
 Bunfan Games: Creators of beatbanger
 
 KirbyKidJ: The creator of the beatbanger legacy mod
