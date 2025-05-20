@@ -4,8 +4,10 @@ A port of the greatest game, beat banger for the ps vita with legacy mod support
 Mods can be acquired via the official beat banger discord server or from the brat banger mods website however this site is no longer up to date as a transition is in progress
 
 
-## Current Bugs
+## Current Bugs/ Issues
 Videos in mods dont work however all animation mods (should) work
+
+Story Mode has been annihilated from existence due to videos. It will not come back probably ever
 
 ## Installation Instructions
 
