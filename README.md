@@ -20,7 +20,7 @@ Go into the steam console and type in the command "download_depot 1813430 181343
 
 Download desired mods from the links at the bottom of the page
 
-Download the beat banger mod converter from    and run the exe
+Download the beat banger mod converter from [here](https://github.com/masteroga101/Beat-Banger-Vita-mod-converter) and run the exe
 
 Paste in the location of one layer above all your mod folders when prompted
 
