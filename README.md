@@ -12,7 +12,9 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 
 ### Patching Instructions
 
-Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
+Hold `Win + R` together to bring up the run box and then type `steam://open/console` into the prompt to bring up the steam console
+
+In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
 
 
 
