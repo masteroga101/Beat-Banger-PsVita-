@@ -7,19 +7,19 @@ A port of the greatest game, beat banger for the ps vita
 
 ### Patching Instructions
 
-0.5. Own a legal copy of the game on steam
+1. Own a legal copy of the game on steam
 
-1. Hold `Win + R` together to bring up the run box and then type `steam://open/console` into the prompt to bring up the steam console
+2. Hold `Win + R` together to bring up the run box and then type `steam://open/console` into the prompt to bring up the steam console
 
-2. In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
+3. In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
 
-3. Download BeatBanger Patcher from either here or on itch.io
+4. Download BeatBanger Patcher from either here or on itch.io
 
-4. drag beat banger pck into the patcher so it is at the same level as the bat files.
+5. drag beat banger pck into the patcher so it is at the same level as the bat files.
 
-5. run the correct bat file corresponding to your operating system
+6. run the correct bat file corresponding to your operating system
 
-6. with the new pck,go onto your vita and go to `ux0:app/BEAT33322/game_data` and paste it inside
+7. with the new pck,go onto your vita and go to `ux0:app/BEAT33322/game_data` and paste it inside
 
 
 ### Acquiring mods
