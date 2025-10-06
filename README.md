@@ -1,7 +1,6 @@
 # Beat-Banger-PsVita-
 A port of the greatest game, beat banger for the ps vita
 
-Mods can be acquired via the official beat banger discord server or from the beat banger mods website however this site is no longer up to date as a transition is in progress
 
 
 ## Current Bugs/ Issues
