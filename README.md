@@ -2,11 +2,6 @@
 A port of the greatest game, beat banger for the ps vita
 
 
-
-## Current Bugs/ Issues
-All Ending Videos dont work due to vita godot just not supporting it, cant really be fixed
-
-
 ## Instructions 
 
 
@@ -16,6 +11,13 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 
 2. In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
 
+3. Download BeatBanger Patcher from either here or on itch.io
+
+4. drag beat banger pck into the patcher so it is at the same level as the bat files.
+
+5. run the correct bat file corresponding to your operating system
+
+6. with the new pck,go onto your vita and go to `ux0:app/BEAT33322/game_data` and paste it inside
 
 
 ### Acquiring mods
