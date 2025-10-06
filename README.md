@@ -12,31 +12,31 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 
 ### Patching Instructions
 
-Hold `Win + R` together to bring up the run box and then type `steam://open/console` into the prompt to bring up the steam console
+1. Hold `Win + R` together to bring up the run box and then type `steam://open/console` into the prompt to bring up the steam console
 
-In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
+2. In the steam console, type the command "download_depot 1813430 1813432 1018289862284499489" to get the required files from the correct version of beat banger
 
 
 
 ### Acquiring mods
 
-Download desired mods from the links at the bottom of the page
+1. Download desired mods from the links at the bottom of the page
 
-Download the beat banger mod converter from [here](https://github.com/masteroga101/Beat-Banger-Vita-mod-converter) and run the exe
+2. Download the beat banger mod converter from [here](https://github.com/masteroga101/Beat-Banger-Vita-mod-converter) and run the exe
 
-Paste in the location of one layer above all your mod folders when prompted
+3. Paste in the location of one layer above all your mod folders when prompted
 
-Once the program has finished and closed, all the mods should now have been converted so that most can now be ran on a ps vita  (a ton of file changing, scaling and compressing) 
+4. Once the program has finished and closed, all the mods should now have been converted so that most can now be ran on a ps vita  (a ton of file changing, scaling and compressing) 
 
 
 
 ### Setup on vita
 
-Create the folder  `Ux0/data/BeatBanger`
+1. Create the folder  `Ux0/data/BeatBanger`
 
-Inside `Ux0/data/BeatBanger` create a mods folder
+2. Inside `Ux0/data/BeatBanger` create a mods folder
 
-then put all your converted mods in there and they should show up inside the game
+3. then put all your converted mods in there and they should show up inside the game
 
 
 
@@ -46,6 +46,10 @@ then put all your converted mods in there and they should show up inside the gam
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
 
 Legacy and Demo mods have to converted to Release via a converter, via either an older version of beat banger or a community made converter 
+
+Video files will not playdue to from what i can see the godot vita version just not supporting them
+
+Load times can be long due to godot 3.5 being limited to 1 core. thankyou very much godot, fuck you
 
 
 ## Credits
