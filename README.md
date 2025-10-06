@@ -24,10 +24,7 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 
 2. Download the beat banger mod converter from [here](https://github.com/masteroga101/Beat-Banger-Vita-mod-converter) and run the exe
 
-3. Paste in the location of one layer above all your mod folders when prompted
-
-4. Once the program has finished and closed, all the mods should now have been converted so that most can now be ran on a ps vita  (a ton of file changing, scaling and compressing) 
-
+3. Follow the instructions on that page, cant be bothered to copy and paste them to here 
 
 
 ### Setup on vita
