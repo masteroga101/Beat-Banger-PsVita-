@@ -8,35 +8,35 @@ Mods can be acquired via the official beat banger discord server or from the bea
 All Ending Videos dont work due to vita godot just not supporting it, cant really be fixed
 
 
-
-## Installation Instructions
-
-### Windows:
-
-1. Have BeatBanger on steam 😁
-
-2. pressWin + R to bring up a command box
-
-3. Enter the command steam://open/console  and enter
-
-4. Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
+## Instructions 
 
 
-### Linux:
+### Patching Instructions
 
-1. Have BeatBanger on steam 🙂
+Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
 
-2. Honestly no fucking clue how you get the steam console up on Linux 😭
 
-3. Go into the steam console and type in the command "download_depot 1813430 1813433 5654115729112847272"
+### Acquiring mods
 
-### MacOs 
+Download desired mods from the links at the bottom of the page
 
-1. Have BeatBanger on steam 😐
+Download the beat banger mod converter from    and run the exe
 
-2. Couldnt even hazard a guess 🫠 . Get access to the steam console via any means necessary 
+Paste in the location of one layer above all your mod folders when prompted
 
-3. Go into the steam console and type in the command "download_depot 1813430 1813434 8127516922034049397"
+Once the program has finished and closed, all the mods should now have been converted so that most can now be ran on a ps vita  (a ton of file changing, scaling and compressing) 
+
+
+### Setup on vita
+
+Create the folder  `Ux0/data/BeatBanger`
+
+Inside `Ux0/data/BeatBanger` create a mods folder
+
+then put all your converted mods in there and they should show up inside the game
+
+
+
 
 ## Notes
 
