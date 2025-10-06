@@ -59,10 +59,10 @@ The Beat Banger modding community
 [Beat Banger Discord](https://discord.gg/beatbanger)
 
 [Beat Banger mods website](https://mods.beatbanger.com/)
-if you have any mods that are completely blank on the list then please reach out either on reddit or discord to masteroga101, I should be in most of the big vita discord servers
-
 
 (WIP) [Mod compatibility sheet](https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk)
+
+if you have any mods that are completely blank on the list then please reach out either on reddit or discord to masteroga101, I should be in most of the big vita discord servers
 
 
 
