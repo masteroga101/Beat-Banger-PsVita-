@@ -40,6 +40,8 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 
 ## Notes
 
+The game has its parental controls set to 11 to comply with vitadb restrictions 
+
 This is running on an older version of beatbanger as the game got updated to godot 4 back in late 2023
 
 Legacy and Demo mods have to converted to Release via a converter, via either an older version of beat banger or a community made converter 
