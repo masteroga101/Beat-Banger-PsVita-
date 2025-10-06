@@ -16,6 +16,7 @@ All Ending Videos dont work due to vita godot just not supporting it, cant reall
 Go into the steam console and type in the command "download_depot 1813430 1813432 1018289862284499489"
 
 
+
 ### Acquiring mods
 
 Download desired mods from the links at the bottom of the page
@@ -25,6 +26,7 @@ Download the beat banger mod converter from [here](https://github.com/masteroga1
 Paste in the location of one layer above all your mod folders when prompted
 
 Once the program has finished and closed, all the mods should now have been converted so that most can now be ran on a ps vita  (a ton of file changing, scaling and compressing) 
+
 
 
 ### Setup on vita
