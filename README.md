@@ -49,7 +49,7 @@ Legacy and Demo mods have to converted to Release via a converter, via either an
 
 Video files will not playdue to from what i can see the godot vita version just not supporting them
 
-Load times can be long due to godot 3.5 being limited to 1 core. Thankyou very much godot, fuck you
+Load times can be long due to godot 3.5 being limited to 1 core. Thankyou very much godot
 
 
 ## Credits
