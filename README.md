@@ -62,7 +62,7 @@ The Beat Banger modding community
 
 (WIP) [Mod compatibility sheet](https://docs.google.com/spreadsheets/d/1CTd_hSYfUu6HME95VpTPoaIcraqyYKCRfINEARivMIE/edit?usp=drivesdk)
 
-if you have any mods that are completely blank on the list then please reach out either on reddit or discord to masteroga101, I should be in most of the big vita discord servers
+if you have any mods that are completely blank on the sheet then please reach out either on reddit or discord to masteroga101, I should be in most of the big vita discord servers
 
 
 
