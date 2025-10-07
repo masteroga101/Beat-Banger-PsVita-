@@ -55,11 +55,6 @@ Video files will not playdue to from what i can see the godot vita version just 
 Load times can be long due to godot 3.5 being limited to 1 core. Thankyou very much godot
 
 
-## Credits
-Bunfan Games: Creators of beatbanger
-
-The Beat Banger modding community 
-
 ## Links
 
 [Beat Banger Discord](https://discord.gg/beatbanger)
