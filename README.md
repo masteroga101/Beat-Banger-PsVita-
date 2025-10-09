@@ -35,7 +35,7 @@ A port of the greatest game, beat banger for the ps vita
 
 1. Create the folder  `Ux0/data/BeatBanger`
 
-2. Inside `Ux0/data/BeatBanger` create a mods folder
+2. Inside `Ux0:data/BeatBanger` create a mods folder
 
 3. then put all your converted mods in there and they should show up inside the game
 
