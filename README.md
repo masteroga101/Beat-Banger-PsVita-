@@ -48,7 +48,7 @@ A port of the greatest game, beat banger for the ps vita
 
 
 
-## Notes
+## Notes - PLEASE READ!!!
 
 The game has its parental controls set to 11 to comply with vitadb restrictions 
 
