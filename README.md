@@ -60,7 +60,7 @@ Video files will not playdue to from what i can see the godot vita version just 
 
 Load times can be long due to godot 3.5 being limited to 1 core. Thankyou very much godot
 
-(All 6) Story levels aren't in there yet due to me forgetting to put them back in, will probably re-add them in V1.0
+(All 3/6) Story levels aren't in there yet due to me forgetting to put them back in, will probably re-add them in V1.0
 
 
 ## Links
