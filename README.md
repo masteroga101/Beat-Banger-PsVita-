@@ -4,6 +4,11 @@ A port of the greatest game, beat banger for the ps vita
 
 ## Instructions 
 
+### Prerequisites 
+
+1. [libshaccg plugin](https://github.com/OsirizX/ShaRKF00D)
+
+
 
 ### Patching Instructions
 
