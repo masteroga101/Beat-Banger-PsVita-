@@ -8,6 +8,7 @@ A port of the greatest game, beat banger for the ps vita
 
 1. [libshaccg plugin](https://github.com/OsirizX/ShaRKF00D)
 
+2. [ioPlus plugin](https://www.gamebrew.org/wiki/IoPlus_Vita)
 
 
 ### Patching Instructions
