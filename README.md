@@ -41,7 +41,7 @@ A port of the greatest game, beat banger for the ps vita
 
 ### Setup on vita
 
-1. Create the folder  `Ux0/data/BeatBanger`
+1. Create the folder  `Ux0:data/BeatBanger`
 
 2. Inside `Ux0:data/BeatBanger` create a mods folder
 
