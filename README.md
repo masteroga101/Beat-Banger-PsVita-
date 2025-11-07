@@ -76,4 +76,22 @@ Load times can be long due to godot 3.5 being limited to 1 core. Thankyou very m
 if you have any mods that are completely blank on the sheet then please reach out either on reddit or discord to masteroga101, I should be in most of the big vita discord servers
 
 
+### V1.0 to do list
+
+Resolution scaling 
+
+Foolproof UI for converter
+
+Add main levels natively
+
+Fix the note type that doesn't transfer to playstation buttons 
+
+Other miscellaneous bugfixes to increase compatibility 
+
+Potentials: 
+
+Rewrite the how mods are loaded so only 3 or so textures are loaded at any one time
+
+
+
 
