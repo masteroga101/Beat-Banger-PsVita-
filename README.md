@@ -82,6 +82,8 @@ Resolution scaling
 
 Foolproof UI for converter
 
+Add D-Pad inputs (like P DIVA)
+
 Add main levels natively
 
 Fix the note type that doesn't transfer to playstation buttons 
@@ -90,7 +92,7 @@ Other miscellaneous bugfixes to increase compatibility
 
 Potentials: 
 
-Rewrite the how mods are loaded so only 3 or so textures are loaded at any one time
+Rewrite the how mods are loaded so only 3 or so textures are loaded at any one time which should save colossal amounts of RAM and load time
 
 
 
