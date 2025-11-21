@@ -88,6 +88,8 @@ Add main levels natively
 
 Fix the note type that doesn't transfer to playstation buttons 
 
+Fix legacy background scaling
+
 Other miscellaneous bugfixes to increase compatibility 
 
 Potentials: 
